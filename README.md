@@ -3,7 +3,7 @@
 </div>
 
 # Commerce
-Project 2 for CS50’s Web Programming with Python and JavaScript.
+Project  for Se-Lab with Python and JavaScript.
 
 ## Overview
 An eBay-like e-commerce auction site design that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist.”
